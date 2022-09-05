@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobabnoba&show_icons=true&count_private=true&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobabnoba&show_icons=true&count_private=true&theme=gruvbox&hide=stars,issues,contribs)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobabnoba&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobabnoba&langs_count=8&layout=compact&theme=gruvbox)
 
